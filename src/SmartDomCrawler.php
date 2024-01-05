@@ -1,9 +1,8 @@
 <?php
 
-namespace App;
-use App\Models\Config;
+namespace SmartDomCrawler;
+
 use DOMAttr;
-use Illuminate\Support\Arr;
 use Symfony\Component\DomCrawler\Crawler;
 
 class SmartDomCrawler extends Crawler
@@ -208,7 +207,6 @@ class SmartDomCrawler extends Crawler
                 //dd($attribute->value);
                 //echoLog('Attributes: attr ' . $attribute->name .' = '. $attribute->value);
                 $elements[$attribute->name] = $attribute->nodeValue;
-                //Arr::set($elements, $attribute->name, $attribute->value);
                 $i++;
 
             }
