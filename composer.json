@@ -1,7 +1,7 @@
 {
     "name": "fratac/smart-dom-crawler",
     "description": "The smart DOM (the HTML Document Object Model) parser based on Symfony dom-crawler",
-    "type": "library",
+
     "authors": [
         {
             "name": "fratac",
