@@ -1,20 +1,20 @@
 <?php return array(
     'root' => array(
         'name' => 'fratac/smart-dom-crawler',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => 'fbd6b5579709ff538266b2f6e0ff8e9de928d202',
-        'type' => 'project',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
+        'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
         'fratac/smart-dom-crawler' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => 'fbd6b5579709ff538266b2f6e0ff8e9de928d202',
-            'type' => 'project',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
+            'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
