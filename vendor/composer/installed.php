@@ -3,7 +3,7 @@
         'name' => 'fratac/smart-dom-crawler',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '49f5987caa528f15471c2fb9c79ae69bc6193b68',
+        'reference' => 'fbd6b5579709ff538266b2f6e0ff8e9de928d202',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'fratac/smart-dom-crawler' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '49f5987caa528f15471c2fb9c79ae69bc6193b68',
+            'reference' => 'fbd6b5579709ff538266b2f6e0ff8e9de928d202',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
