@@ -1,7 +1,10 @@
 {
     "name": "fratac/smart-dom-crawler",
     "description": "The smart DOM (the HTML Document Object Model) parser based on Symfony dom-crawler",
-    "type": "project",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "fratac",
@@ -23,12 +26,7 @@
         "exclude-from-classmap": [
             "/tests/"
         ]
-    },
-
-
-    "minimum-stability": "dev",
-    "prefer-stable": true
-
+    }
 
 
 }
