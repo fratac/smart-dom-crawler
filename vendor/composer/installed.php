@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'fratac/smart-dom-crawler',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => 'd97c89c2871a02b63c6b3425e81d257c3b85d826',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '49f5987caa528f15471c2fb9c79ae69bc6193b68',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'fratac/smart-dom-crawler' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => 'd97c89c2871a02b63c6b3425e81d257c3b85d826',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '49f5987caa528f15471c2fb9c79ae69bc6193b68',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -31,7 +31,7 @@
         'roave/security-advisories' => array(
             'pretty_version' => 'dev-latest',
             'version' => 'dev-latest',
-            'reference' => '3759df5c6ceda3dc7bd04228b2d5190b0d827663',
+            'reference' => 'c8682d0318353f7979a429981e902463e4879cf0',
             'type' => 'metapackage',
             'install_path' => NULL,
             'aliases' => array(
@@ -49,8 +49,8 @@
             'dev_requirement' => false,
         ),
         'symfony/polyfill-ctype' => array(
-            'pretty_version' => '1.x-dev',
-            'version' => '1.9999999.9999999.9999999-dev',
+            'pretty_version' => 'v1.28.0',
+            'version' => '1.28.0.0',
             'reference' => 'ea208ce43cbb04af6867b4fdddb1bdbf84cc28cb',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/polyfill-ctype',
@@ -58,8 +58,8 @@
             'dev_requirement' => false,
         ),
         'symfony/polyfill-mbstring' => array(
-            'pretty_version' => '1.x-dev',
-            'version' => '1.9999999.9999999.9999999-dev',
+            'pretty_version' => 'v1.28.0',
+            'version' => '1.28.0.0',
             'reference' => '42292d99c55abe617799667f454222c54c60e229',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/polyfill-mbstring',
