@@ -1,7 +1,7 @@
 {
     "name": "fratac/smart-dom-crawler",
     "description": "The smart DOM (the HTML Document Object Model) parser based on Symfony dom-crawler",
-    "type": "composer",
+    "type": "package",
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
