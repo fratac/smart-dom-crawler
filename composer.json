@@ -23,11 +23,13 @@
     },
 
     "autoload": {
-        "psr-4": { "SmartDomCrawler\\": "src/" },
-        "exclude-from-classmap": [
-            "/tests/"
-        ]
+        "psr-4": {
+            "SmartDomCrawler\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SmartDomCrawler\\Tests\\": "tests"
+        }
     }
-
-
 }
