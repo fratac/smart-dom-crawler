@@ -3,7 +3,7 @@
     "description": "The smart DOM (the HTML Document Object Model) parser based on Symfony dom-crawler",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
